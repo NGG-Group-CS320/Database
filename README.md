@@ -9,14 +9,14 @@
 * Database: HP_Systemsd
 * User: backend
 * Password: PM me for this
-* psql -h cs320ngg.cyxkzezznjnl.us-east-1.rds.amazonaws.com -U backend -d HP_Systems -p 5432
+* ```psql -h cs320ngg.cyxkzezznjnl.us-east-1.rds.amazonaws.com -U backend -d HP_Systems -p 5432```
 
 ### NEW INFO TO CONNECT ###
 * Host: ssh.mfdat.host
 * Database: HP_Project
 * User: backend
 * Password: PM me for this
-* psql -h ssh.mfdat.host -U backend -d HP_Project -p 5432
+* ```psql -h ssh.mfdat.host -U backend -d HP_Project -p 5432```
 
 ### Tables/Views ###
 * hp: the old table before column adding and computations
