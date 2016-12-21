@@ -29,4 +29,7 @@ Tables/Views
 * normalized_bandwith_date: contains misspelling but the rest of the queries use it 
  computes normalized bandwidth for systems (bandwidth/maxBandwidth)
 
-Many of the queries used can be found in querydump.sql
+Program Files 
+* querydump.sql contains many of the queries used 
+* columns.py is used for creating the large create tables needed for our data
+* csvmerge.py is used for merging all of the 4500+ CSVs
